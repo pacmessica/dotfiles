@@ -1,0 +1,5 @@
+[core]
+	editor = atom --wait
+[user]
+	name = Jessica Paczuski
+	email = jessica@pimmr.com
